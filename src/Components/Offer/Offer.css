@@ -1,0 +1,12 @@
+#price{
+    color: #C67C4E;
+}
+img{
+    border-radius: 200px;
+}
+.card{
+    border-radius: 60px;
+}
+.card-container{
+    display: flex;
+}
