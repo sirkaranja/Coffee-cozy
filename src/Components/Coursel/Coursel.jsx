@@ -19,7 +19,7 @@ const Coursel = () => {
 
         </div>
         <div className="coursel-image">
-            <img src={img1} alt="" id='coursel-image' srcset="" />
+            <img src={img1} alt=""  srcset="" />
 
         </div>
     </div>

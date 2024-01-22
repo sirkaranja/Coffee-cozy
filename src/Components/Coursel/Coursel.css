@@ -1,13 +1,17 @@
 
 .main-coursel{
+    padding-top: 100px;
     display: flex;
     justify-content: space-between;
+}
+.title{
+    padding-top: 40px;
 }
 #exp{
     color: #C67C4E;
 }
 .coursel-image{
-    height: 6px;
+    padding-left: 100px;
    
 }
  #order{
