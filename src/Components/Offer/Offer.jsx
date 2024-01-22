@@ -5,7 +5,7 @@ import expresso from '../../assets/expresso.png'
 const Offer = () => {
   return (
     <>
-    <h5>SPECIAL OFFERS</h5>
+    <h5 id='titl'>SPECIAL OFFERS</h5>
     <div className="offers-container">
         <div className="offer-title">
             <h2>Popular customer<br/>
