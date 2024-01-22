@@ -1,6 +1,7 @@
 
 .main-coursel{
     display: flex;
+    justify-content: space-between;
 }
 #exp{
     color: #C67C4E;
