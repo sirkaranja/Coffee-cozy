@@ -1,0 +1,13 @@
+.about-container{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    background-color: #C67C4E;
+}
+h4{
+    color: #C67C4E;
+}
+.about-info{
+    padding-top: 90px;
+}
