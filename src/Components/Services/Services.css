@@ -1,0 +1,24 @@
+
+   .main-service {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .card-container {
+    display: flex;
+    gap: 20px;
+    width: 58%;
+  }
+  
+  .card-gif {
+    font-size: medium;
+    text-align: center;
+    height: max-content;
+    background-color: wheat;
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
