@@ -10,3 +10,29 @@ img{
 .card-container{
     display: flex;
 }
+
+.offer-title h2{
+    text-align: left;
+}
+.offers-container {
+    display: flex;
+    flex-direction: column;
+    position: relative; 
+  }
+  
+  .navigation-arrows {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-left: auto; 
+  }
+  
+  .arrow {
+    cursor: pointer;
+    background-color: #C67C4E; 
+    color: #fff; 
+    padding: 10px;
+    border-radius: 50%; 
+    font-size: 20px; 
+    margin-right: 10px;
+  }
