@@ -5,6 +5,7 @@ import Coursel from './Components/Coursel/Coursel';
 import Offer from './Components/Offer/Offer';
 import About from './Components/About/About';
 import Services from './Components/Services/Services';
+import Footer from './Components/Footer/Footer'
 
 import './App.css'
 
@@ -18,6 +19,7 @@ function App() {
       <Offer/>
       <About />
       <Services />
+      <Footer />
       
 
     </>

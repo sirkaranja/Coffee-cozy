@@ -1,0 +1,15 @@
+.footer{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.link1 li{
+list-style: none;
+}
+.copyright{
+    text-align: center;
+    font: 100;
+}
+.copyright p{
+    font-size: 15px;
+}
