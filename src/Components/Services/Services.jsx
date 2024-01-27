@@ -8,7 +8,7 @@ import gift from '../../assets/icons/gift.png'
 const Services = () => {
   return (
     <>
-    <div>Our Story & Services</div>
+    <h4>Our Story & Services</h4>
     <div className="main-service">
           <div className="service-text">
             <h2>Our Culinary Journey<br/> And Services</h2>
