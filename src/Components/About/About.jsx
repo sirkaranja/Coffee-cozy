@@ -15,7 +15,7 @@ const About = () => {
                 elit. Mauris vitae turpis quis arcu blandit dictum vitae<br/>
              non ipsum. Donec odio ipsum, rhoncus sit amet <br/>
              odio eget, congue auctor erat. Integer eu tortor varius,</p>
-             <button>Explore</button>
+             <button id='btn'>Explore</button>
         </div>
         
     </div>
