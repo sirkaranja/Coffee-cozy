@@ -36,3 +36,19 @@ img{
     font-size: 20px; 
     margin-right: 10px;
   }
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .offer-title h2 {
+        text-align: center; 
+    }
+
+    .card {
+        max-width: 80%; 
+        margin: 0 auto; 
+    }
+
+    .navigation-arrows {
+        justify-content: center; 
+    }
+}
